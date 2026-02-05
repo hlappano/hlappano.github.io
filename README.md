@@ -1,7 +1,24 @@
 # Portfolio
 
 ## About Me
-Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the Modeling, Simulation, and Training Industry for the past 15+ years. My passion of development is with gaming and its technology, artificial intelligence especially deep learning algorithms, and simulations. Other passions I have are creating music, creative writing, and philosophy. 
+Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the Modeling, Simulation, and Training Industry for the past 15+ years. My passion of development is with gaming and its technology, artificial intelligence especially deep learning algorithms, and simulations. Other passions I have are creating music, creative writing, and philosophy.
+
+## SKILLS
+### Languages:
+C/C++; C#; Java; Javascript; Python; UnrealScript; SQL; YAML; QML; HTTP; XML; XSD; JSON; UML;
+Framework, API & SDK: Unreal Engine 3-5; Unity; DirectSound; MXNet; Tensorflow; Tensorboard; PyTorch; Flask, Svelte, QT 5; Android
+(SDK/NDK); Scaleform; Boost C++; CLIPS; OpenEaagles; Backbone JS; Bootstrap; Ansible 3-4; OpenLayers 4;
+### Programming:
+Serious Games; Digital Audio; Network TCP/UDP; Artificial Intelligence; Machine Learning & Deep Learning;
+Expert System; Infrared Simulation; DIS; Behavioral Models; Discrete-Time & Event Simulations; UI/UX;
+Object-Oriented Design;
+### Software Tools:
+Docker, Amazon Web Services (AWS); CMake; CTest; SWIG; Jenkins; Doxygen; Dependency Walker;
+Wireshark; RenderDoc; Atlassian Tools; Visual Studio; Eclipse; Jupyter Notebook; MySQL Workbench;
+### Version Controls:
+Perforce; SVN; GIT; GitLab; GitHub; Bitbucket
+Operating Systems: Windows; Linux; Android; UmbrelOS; RaspberryPi;
+Soft Skills: Leadership; Debugging; Multi-tasking; Team-worker; Ingenuity; Artistic;
 
 ## Work Projects
 

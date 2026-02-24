@@ -1,5 +1,6 @@
-# Portfolio
 *Aperietur in tempore*
+
+# Portfolio
 
 ## About Me
 Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the Modeling, Simulation, and Training Industry for the past 15+ years. My passion of development is with gaming and its technology, artificial intelligence especially deep learning algorithms, and simulations. Other passions I have are creating music, creative writing, and philosophy.

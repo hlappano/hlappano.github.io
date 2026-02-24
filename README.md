@@ -1,4 +1,5 @@
 # Portfolio
+*Aperietur in tempore*
 
 ## About Me
 Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the Modeling, Simulation, and Training Industry for the past 15+ years. My passion of development is with gaming and its technology, artificial intelligence especially deep learning algorithms, and simulations. Other passions I have are creating music, creative writing, and philosophy.
@@ -33,15 +34,19 @@ This research work was funded by an Air Force STTR. Utilizing Unreal Engine 4 to
 
 ### Navigation System Maintenance Trainer - Alion Science and Technology
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C3tBt2Zf3U?si=gwVgVhkqzrncGbBB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Video contains multiple serious game traners including NSMT
+Video contains multiple serious game traners including NSMT, about 40s in NSMT can be seen.
 
-Worked as a Design Software Engineer in the Serious Games Division developing a trainer for the Navy called Navigation System Maintenance Trainer.
 [CHIPS Article](https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=6201)
 
+With the rest of the serious game team, I helped design, develop, test, and deploy the NSMT trainer. This trainer was developed using a custom built Unreal Engine 3. NSMT is a classroom trainer where each student and instructor had the serious game installed on their computer. The instructor can provide exerices to the students by assigning faults to the navigation system and follow along the student's progress with after action review feedback.
 
 
 ## Side Projects
 
+### Realtime Procedural Landscapes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBFF9Z_n0pE?si=9tRAU3g8VmZdiaUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Realtime Procedural Landscape development utilizes the Realtime Mesh Component Plugin to build procedural meshes in realtime in Unreal Engine 5. This demonstration is part of an effort development for a game that pushes realtime procedural content generation. The game takes place in a graveyard and the demonstrates creating custom cut-outs to insert graves in the terrain.
 
 ### Cryptospector
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCctwyj9Wpw?si=8C2wedRSI6c7XDf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -49,15 +54,6 @@ Worked as a Design Software Engineer in the Serious Games Division developing a 
 **UNDER DEVELOPMENT**
 
 Cryptospector (working title) is a web-based application that manages user's portfolios for crypto accounts. The application is meant to help visualize and decide tax report methods.
-
-
-
-
-
-### Realtime Procedural Landscapes
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBFF9Z_n0pE?si=9tRAU3g8VmZdiaUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Realtime Procedural Landscape development utilizes the Realtime Mesh Component Plugin to build procedural meshes in realtime in Unreal Engine 5. This demonstration is part of an effort development for a game that pushes realtime procedural content generation. The game takes place in a graveyard and the demonstrates creating custom cut-outs to insert graves in the terrain.
 
 
 ### Piper Hub

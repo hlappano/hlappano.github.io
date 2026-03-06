@@ -72,7 +72,7 @@ This is a web interface portal to the Piper TTS. It allows to do the following w
 ### Lottery Statistical Analyzer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIfVf_Dry-I?si=I9Ti4_htWMIWKH8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Application that ingests Florida Lottery Data and performs statistical graphs and queries.
+Application that ingests Florida Lottery Data and performs statistical graphs and queries. Built using Unreal Engine 4's UMG, Slate, and Blueprints
 
 
 

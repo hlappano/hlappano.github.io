@@ -2,8 +2,20 @@
 
 # Portfolio
 
+## Table of Contents
+<a href='#about-me'>About Me</a>
+<a href='#skills'>Skills</a>
+<a href='#work-projects'>Work Projects</a>
+<a href='#side-projects'>Side Projects</a>
+
 ## About Me
-Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the Modeling, Simulation, and Training Industry for the past 15+ years. My passion of development is with gaming and its technology, artificial intelligence especially deep learning algorithms, and simulations. Other passions I have are creating music, creative writing, and philosophy.
+I am a highly self-motivated full-stack software engineer with over 16 years of experience in serious gaming, simulations, AI, and applied research and development. I'm proficient in creating immersive experiences using my skills in Unreal Engine, AI and deep learning algorithms, image processing, and web development.  I've helped deliver impactful solutions through research and development, including infrared image generation (Unreal 4), intelligent tutoring systems, and maintenance trainers (Unreal 3 and 4).
+
+As someone who deeply values and loves the evolution of AI, I embrace AI assistant tools to help accelerate tasks and to enhance my knowledge and skills. I firmly believe that AI should augment where humans and machines work together to solve complex problems and drive innovation like Star Trek. For now, AI is a powerful tool, like a super calculator: a tool that can speed up research, bridge and enhance communications across languages and cultures, and help humanity evolve at an unprecedented pace. However, we must never forget it is still artificial, and as engineers, we are constantly striving to refine it, pushing closer to 100% passing the Turing Test. In fact, we are starting to hit a threshold where humans are being tested to see if their content is AI generated.
+
+My journey has been driven by a deep passion for innovation and my belief that technology can be a force for meaningful change and transformative experiences. I'm excited to continue collaborating with teams and explore the next level of innovations.
+
+ Other passions I have are creating music, creative writing, and philosophy.
 
 ## SKILLS
 ### Languages:

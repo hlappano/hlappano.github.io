@@ -7,23 +7,22 @@ Hi my name is Harleen Lappano. I am a Senior Software Engineer who works in the 
 
 ## SKILLS
 ### Languages:
-C/C++; C#; Java; Javascript; Python; UnrealScript; SQL; YAML; QML; HTTP; XML; XSD; JSON; UML;
-Framework, API & SDK: Unreal Engine 3-5; Unity; DirectSound; MXNet; Tensorflow; Tensorboard; PyTorch; Flask, Svelte, QT 5; Android
-(SDK/NDK); Scaleform; Boost C++; CLIPS; OpenEaagles; Backbone JS; Bootstrap; Ansible 3-4; OpenLayers 4;
-### Programming:
-Serious Games; Digital Audio; Network TCP/UDP; Artificial Intelligence; Machine Learning & Deep Learning;
-Expert System; Infrared Simulation; DIS; Behavioral Models; Discrete-Time & Event Simulations; UI/UX;
-Object-Oriented Design;
-### Software Tools:
-Docker, Amazon Web Services (AWS); CMake; CTest; SWIG; Jenkins; Doxygen; Dependency Walker;
-Wireshark; RenderDoc; Atlassian Tools; Visual Studio; Eclipse; Jupyter Notebook; MySQL Workbench;
+C/C++; C#; Java; Python; JavaScript; TypeScript; SQL; XML; YAML
+### Game Development & Simulation:
+Unreal Engine 3-5; Unity; Microsoft XNA; Scaleform; Blender; ArcGIS; QGIS; DirectSound; Distributed Interactive Simulation; Behavior Models; Physics-based Infrared Simulations;
+### AI / Machine Learning & Data Analysis Related:
+Deep Learning Algorithms; LLMs (Implementation & Fine-tuning), Generative Adversary Networks; Expert Systems; Image-to-Image Generation; State Machines (e.g. Unreal’s Blackboard and Behavior Trees); MXNet; PyTorch; CLIPS; Tensorboard; NumPy; MatplotLib;
+### Development Tool & Ecosystem:
+Docker; Amazon Web Services (AWS); CMake; CTest; SWIG; Jenkins; Doxygen; Dependency Walker; Valgrind; Wireshark; RenderDoc; Atlassian Tools; Visual Studio; Eclipse; Jupyter Notebook; GitHub Actions;
 ### Version Controls:
 Perforce; SVN; GIT; GitLab; GitHub; Bitbucket
-Operating Systems: Windows; Linux; Android; UmbrelOS; RaspberryPi;
-Soft Skills: Leadership; Debugging; Multi-tasking; Team-worker; Ingenuity; Artistic;
+### Operating Systems:
+Windows; Linux; Android; UmbrelOS; RaspberryPi;
+### Soft Skills:
+Leadership; Debugging; Multi-tasking; Team-worker; Ingenuity; Artistic;
+
 
 ## Work Projects
-
 ### Temporal Energy Maps - Cornerstone Software Solutions, Inc.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrSjVC3n1QU?si=otkvFVSizLApCC4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39,8 +38,7 @@ Video contains multiple serious game traners including NSMT, about 40s in NSMT c
 
 [CHIPS Article](https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=6201)
 
-With the rest of the serious game team, I helped design, develop, test, and deploy the NSMT trainer. This trainer was developed using a custom built Unreal Engine 3. NSMT is a classroom trainer where each student and instructor had the serious game installed on their computer. The instructor can provide exerices to the students by assigning faults to the navigation system and follow along the student's progress with after action review feedback.
-
+With the rest of the serious game team, I helped design, develop, test, and deploy the NSMT trainer. This trainer was developed using a custom built Unreal Engine 3. NSMT is a classroom trainer where student's trained via exercies that assigns faults to the navigation system to simulate real-world situations and the student then needs to troubleshoot and repair the faults The instructor's operating station provides tools where the instructor can assign exercies to students, follow-along student's progress with after action review, and present exercises in the classroom through a video matrix projector.
 
 ## Side Projects
 
@@ -48,6 +46,11 @@ With the rest of the serious game team, I helped design, develop, test, and depl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBFF9Z_n0pE?si=9tRAU3g8VmZdiaUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Realtime Procedural Landscape development utilizes the Realtime Mesh Component Plugin to build procedural meshes in realtime in Unreal Engine 5. This demonstration is part of an effort development for a game that pushes realtime procedural content generation. The game takes place in a graveyard and the demonstrates creating custom cut-outs to insert graves in the terrain.
+
+### Lottery Statistical Analyzer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIfVf_Dry-I?si=I9Ti4_htWMIWKH8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Application that ingests Florida Lottery Data and performs statistical graphs and queries. Built using Unreal Engine 4's UMG, Slate, and Blueprints
 
 ### Cryptospector
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCctwyj9Wpw?si=8C2wedRSI6c7XDf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -67,13 +70,6 @@ This is a web interface portal to the Piper TTS. It allows to do the following w
 * Upload Custom Voices
 * Generate Text-To-Speech with the selected voice.
 * Download the audio generated via the web browser.
-
-
-### Lottery Statistical Analyzer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DIfVf_Dry-I?si=I9Ti4_htWMIWKH8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Application that ingests Florida Lottery Data and performs statistical graphs and queries. Built using Unreal Engine 4's UMG, Slate, and Blueprints
-
 
 
 

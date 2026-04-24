@@ -19,7 +19,7 @@ My journey has been driven by a deep passion for innovation and my belief that t
 
 ## SKILLS
 ### Languages:
-C/C++; C#; Java; Python; JavaScript; TypeScript; SQL; XML; YAML
+C/C++; C#; Java; Python; JavaScript; TypeScript; SQL; XML; JSON; YAML;
 ### Game Development & Simulation:
 Unreal Engine 3-5; Unity; Microsoft XNA; Scaleform; Blender; ArcGIS; QGIS; DirectSound; Distributed Interactive Simulation; Behavior Models; Physics-based Infrared Simulations;
 ### AI / Machine Learning & Data Analysis Related:

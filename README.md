@@ -1,11 +1,20 @@
-*Aperietur in tempore*
+<table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+        <td style="border: none;" align="center">
+            <a href="https://avatars.githubusercontent.com/u/14917814?v=4" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/14917814?v=4" alt="Avatar" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;">
+            </a>
+        </td>
+        <td style="border: none;" >
+            <h3>Harleen Lappano</h3>
+            <i>Aperietur in tempore</i>
+        </td>
+  </tr>
+</table>
+
 
 # Portfolio
 
-<a href="https://avatars.githubusercontent.com/u/14917814?v=4" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/14917814?v=4" alt="Avatar" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
-    <h3 style="margin: 0;">Harleen Lappano</h3>
-</a>
 
 ## Table of Contents
 <a href='#about-me'>About Me</a>
